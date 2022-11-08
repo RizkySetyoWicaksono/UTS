@@ -1,0 +1,120 @@
+html {
+	position: relative;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+body {
+	margin-bottom: 120px;
+	margin-top: 30px;
+}
+.foto img {
+    width: 250px;
+    border: 5px solid #e0850c;
+    text-align: center;
+    border-radius: 50%;
+    box-shadow: 1px 1px 10px rgba(32, 30, 5, 0.582);
+}
+.tengah{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.tengah-kata{
+    text-align: center;
+}
+.footer {
+    padding:40px 0;
+    background-color:#ffffff;
+    color:#4b4c4d;
+}
+  
+.footer ul {
+    padding:0;
+    list-style:none;
+    text-align:center;
+    font-size:18px;
+    line-height:1.6;
+    margin-bottom:0;
+    font-family: Bebasfont;
+  }
+  
+  .footer li {
+    padding:0 10px;
+  }
+  
+  .footer ul a {
+    color:inherit;
+    text-decoration:none;
+    opacity:0.8;
+  }
+  
+  .footer ul a:hover {
+    opacity:1;
+  }
+  
+  .footer .social {
+    text-align:center;
+    padding-bottom:25px;
+  }
+  
+  .footer .social > a {
+    font-size:24px;
+    width:40px;
+    height:40px;
+    line-height:40px;
+    display:inline-block;
+    text-align:center;
+    border-radius:50%;
+    border:1px solid #ccc;
+    margin:0 8px;
+    color:inherit;
+    opacity:0.75;
+  }
+  
+  .footer .social > a:hover {
+    opacity:0.9;
+  }
+  
+  .footer .copyright {
+    margin-top:15px;
+    text-align:center;
+    font-size:13px;
+    color:#aaa;
+    margin-bottom:0;
+  }
+
+
+.contact{
+    text-align: center;
+}
