@@ -1,0 +1,21 @@
+  
+.tm-bg-aktivitas1 {
+    background-image: url("img/main.jpg");
+    background-repeat: no-repeat;
+  }
+  
+  .tm-bg-aktivitas2 {
+    background-image: url("img/nonton.jpg");
+    background-repeat: no-repeat;
+  }
+  
+  .tm-bg-aktivitas3 {
+    background-image: url("img/olahraga.jpg");
+    background-repeat: no-repeat;
+  }
+  
+  .tm-bg-aktivitas4 {
+    background-image: url("img/organisasi.jpg");
+    background-repeat: no-repeat;
+  }
+  
