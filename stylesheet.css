@@ -201,22 +201,22 @@ p {
     padding: 8px;
   }
 .tm-bg-aktivitas1 {
-  background-image: url("../Projekt1/img/main.jpg");
+  background-image: url("img/main.jpg");
   background-repeat: no-repeat;
 }
 
 .tm-bg-aktivitas2 {
-  background-image: url("../Projekt1/img/nonton.jpg");
+  background-image: url("img/nonton.jpg");
   background-repeat: no-repeat;
 }
 
 .tm-bg-aktivitas3 {
-  background-image: url("../Projekt1/img/olahraga.jpg");
+  background-image: url("img/olahraga.jpg");
   background-repeat: no-repeat;
 }
 
 .tm-bg-aktivitas4 {
-  background-image: url("/Projekt/Projekt1/img/organisasi.jpg");
+  background-image: url("img/organisasi.jpg");
   background-repeat: no-repeat;
 }
 table{
@@ -224,7 +224,7 @@ margin-left: 30px;
 }
 
 .jumbotron {
-	background-image: url("../Projekt1/img/digital.png");
+	background-image: url("img/digital.png");
 	background-attachment: fixed;
 	background-size: cover;
 	background-position: 0 -100px;
@@ -286,15 +286,15 @@ padding-bottom: 4px;
 }
 
 .tm-bg-hasil1 {
-  background-image: url("../Projekt1/img/hasil1.png");
+  background-image: url("img/hasil1.png");
 }
 
 .tm-bg-hasil2{
-  background-image: url("../Projekt1/img/hasil2.png");
+  background-image: url("img/hasil2.png");
 }
 
 .tm-bg-aktivitas3 {
-  background-image: url("../Projekt1/img/olahraga.jpg");
+  background-image: url("img/olahraga.jpg");
 }
 
 .about{
